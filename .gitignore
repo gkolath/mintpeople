@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and Tool settings
+.claude/
+.gemini/
+.idea/
+.vscode/
+
+# Firebase cache and logs
+.firebase/
+firebase-debug.log
+
+# Dependency directories
+node_modules/
