@@ -6,7 +6,7 @@
   <header class="site-header" id="siteHeader">
     <div class="container header__inner">
       <a href="${basePath}/index.html" class="site-logo">
-        <span class="logo-mint">Mint</span><span class="logo-people">People</span>
+        <img src="${basePath}/assets/mintpeople_logo.png" alt="MintPeople Logo" class="logo-img">
       </a>
       <nav class="main-nav" id="mainNav">
         <a href="${basePath}/index.html" class="nav-link">Home</a>
@@ -55,7 +55,7 @@
     <div class="container footer__top">
       <div class="footer__brand">
         <a href="${basePath}/index.html" class="site-logo footer-logo">
-          <span class="logo-mint">Mint</span><span class="logo-people">People</span>
+          <img src="${basePath}/assets/mintpeople_logo.png" alt="MintPeople Logo" class="logo-img">
         </a>
         <p>Your Organization, Our Orientation.<br>People-focused HR solutions for businesses across India.</p>
         <div class="footer__social">

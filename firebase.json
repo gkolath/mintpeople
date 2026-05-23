@@ -6,6 +6,13 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "cleanUrls": false
+    "cleanUrls": false,
+    "redirects": [
+      {
+        "source": "/**",
+        "destination": "https://mintpeople.in",
+        "type": 301
+      }
+    ]
   }
 }
